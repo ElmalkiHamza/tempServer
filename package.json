@@ -1,0 +1,9 @@
+{
+	"name": "temperature",
+	"version": "1.0.0",
+	"description": "Retrieve the current temperature of a particular location in the world",
+	"main": "index.js",
+	"dependencies": {
+		"express": "4.0"
+	}
+}
